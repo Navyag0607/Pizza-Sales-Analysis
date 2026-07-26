@@ -1,6 +1,13 @@
 # Pizza-Sales-Analysis
 ## Project Overview
-SQL analysis of pizza sales data to identify sales trends and business insights.
+This project analyzes pizza sales data using PostgreSQL to identify key business insights such as revenue trends, customer ordering patterns, best-selling pizzas, and category performance.The goal of this project is to demonstrate SQL skills including data cleaning, aggregation, filtering, grouping, and business analysis.
+
+
+##Tools & Technologies
+-PostgreSQL
+-SQL
+-GitHub
+-Excel(CSV Data Processing)
 
 ## Dataset
 The dataset contians pizza order details including:
@@ -14,10 +21,7 @@ The dataset contians pizza order details including:
 -Unit Price
 -Total Price
 
-##Total Used
--Sql(MySQL)
--GitHub
--Excel
+##Total Records: 48,620 rows
 
 ## Business Questions Answered
 -What is the total revenue generated?
@@ -38,3 +42,7 @@ Aggregate functions(SUM, COUNT, AVG)
 -Data analysis using SQL
 
 ## Key Insights
+ Increased understanding of overall sales performance through revenue analysis.
+- Identified the top-selling pizzas and highest-performing categories.
+- Analyzed total orders, pizzas sold, and average order value.
+- Used SQL to extract actionable business insights from sales data.
